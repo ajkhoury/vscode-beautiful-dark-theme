@@ -2,7 +2,7 @@
     "name": "beautiful-dark",
     "displayName": "Beautiful Dark",
     "description": "Beautiful dark theme",
-    "version": "0.0.1",
+    "version": "1.0.0",
     "publisher": "ajkhoury",
     "repository": "https://github.com/ajkhoury/vscode-beautiful-dark-theme",
     "engines": {
@@ -11,7 +11,7 @@
     "categories": [
         "Themes"
     ],
-    "icon": "./icons/beautiful-dark-icon.png",
+    "icon": "icons/beautiful-dark-icon.png",
     "contributes": {
         "themes": [
             {
