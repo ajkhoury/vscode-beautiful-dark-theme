@@ -4,6 +4,7 @@
     "description": "Beautiful dark theme",
     "version": "0.0.1",
     "publisher": "ajkhoury",
+    "repository": "https://github.com/ajkhoury/vscode-beautiful-dark-theme",
     "engines": {
         "vscode": "^1.41.0"
     },
