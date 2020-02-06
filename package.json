@@ -1,0 +1,23 @@
+{
+    "name": "beautiful-dark",
+    "displayName": "Beautiful Dark",
+    "description": "Beautiful dark theme",
+    "version": "0.0.1",
+    "publisher": "ajkhoury",
+    "engines": {
+        "vscode": "^1.41.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "icon": "./icons/beautiful-dark-icon.png",
+    "contributes": {
+        "themes": [
+            {
+                "label": "Beautiful Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Beautiful Dark-color-theme.json"
+            }
+        ]
+    }
+}
